@@ -6,6 +6,12 @@
 curl -N me.pdjjq.org
 ```
 
+## Demo
+
+![Demo](assets/demo.mp4)
+
+> 如果视频无法播放，请查看 [assets/demo.mp4](assets/demo.mp4)
+
 ## 特性
 
 - 流式动画效果（打字机、光波、故障切换等）
